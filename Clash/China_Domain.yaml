@@ -1,7 +1,6 @@
 payload:
-  - '+.cn'
-
   - DOMAIN-SUFFIX,00cdn.com
+  - '+.cn'
   - DOMAIN-SUFFIX,0daydown.com
   - DOMAIN-SUFFIX,0o0.ooo
   - DOMAIN-SUFFIX,10010.com
