@@ -511,8 +511,7 @@ payload:
   - DOMAIN-SUFFIX,lifan.ooo
   - DOMAIN-SUFFIX,likefont.com
   - DOMAIN-SUFFIX,lilithgames.com
-  - DOMAIN-SUFFIX,linkedin.com
-  - DOMAIN-SUFFIX,linuxidc.com
+  - DOMAIN-SUFFIX,linuxidc.com 
   - DOMAIN-SUFFIX,liyin.date
   - DOMAIN-SUFFIX,lizhi.fm
   - DOMAIN-SUFFIX,lizhi.io
@@ -520,7 +519,7 @@ payload:
   - DOMAIN-SUFFIX,lncld.net
   - DOMAIN-SUFFIX,locoy.com
   - DOMAIN-SUFFIX,locvps.com
-  - DOMAIN-SUFFIX,lofter.com
+  - DOMAIN-SUFFIX,lofter.com 
   - DOMAIN-SUFFIX,loj.ac
   - DOMAIN-SUFFIX,loli.net
   - DOMAIN-SUFFIX,lolinet.com
