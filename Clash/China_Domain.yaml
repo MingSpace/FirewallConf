@@ -752,9 +752,6 @@ payload:
   - DOMAIN-SUFFIX,sspai.com
   - DOMAIN-SUFFIX,stargame.com
   - DOMAIN-SUFFIX,staticfile.org
-  - DOMAIN-SUFFIX,steamcn.com
-  - DOMAIN-SUFFIX,steamdb.info
-  - DOMAIN-SUFFIX,steampowered.com
   - DOMAIN-SUFFIX,sui.com
   - DOMAIN-SUFFIX,suning.com
   - DOMAIN-SUFFIX,supabase.io
