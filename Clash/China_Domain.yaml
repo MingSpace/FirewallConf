@@ -107,7 +107,6 @@ payload:
   - DOMAIN-SUFFIX,appgame.com
   - DOMAIN-SUFFIX,appinn.com
   - DOMAIN-SUFFIX,appinn.net
-  - DOMAIN-SUFFIX,apple.com
   - DOMAIN-SUFFIX,appletuan.com
   - DOMAIN-SUFFIX,aps.org
   - DOMAIN-SUFFIX,archlinux.org
@@ -172,7 +171,6 @@ payload:
   - DOMAIN-SUFFIX,caiyunapp.com
   - DOMAIN-SUFFIX,cctv.com
   - DOMAIN-SUFFIX,cctvpic.com
-  - DOMAIN-SUFFIX,cdn-apple.com
   - DOMAIN-SUFFIX,cdn.hockeyapp.net
   - DOMAIN-SUFFIX,cdn.jsdelivr.net
   - DOMAIN-SUFFIX,cdnbee.com
