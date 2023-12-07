@@ -4,3 +4,5 @@ payload:
   - DOMAIN-SUFFIX,oaiusercontent.com
   - DOMAIN-SUFFIX,openaiapi-site.azureedge.net
   - DOMAIN-SUFFIX,jetbrains.com
+  - DOMAIN-SUFFIX,grazie.ai
+  - DOMAIN-SUFFIX,grazie.aws.intellij.net
