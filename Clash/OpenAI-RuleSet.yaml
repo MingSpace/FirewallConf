@@ -8,3 +8,4 @@ payload:
   - DOMAIN-SUFFIX,intellij.net
   - DOMAIN-SUFFIX,gemini.google.com
   - DOMAIN-SUFFIX,claude.ai
+  - DOMAIN-SUFFIX,anthropic.com
