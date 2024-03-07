@@ -5,6 +5,8 @@ DOMAIN-SUFFIX,openaiapi-site.azureedge.net,OpenAI
 DOMAIN-SUFFIX,jetbrains.com,OpenAI
 DOMAIN-SUFFIX,grazie.ai,OpenAI
 DOMAIN-SUFFIX,intellij.net,OpenAI
+DOMAIN-SUFFIX,gemini.google.com,OpenAI
+DOMAIN-SUFFIX,claude.ai,OpenAI
 
 
 
