@@ -10,4 +10,4 @@ payload:
   - DOMAIN-SUFFIX,claude.ai
   - DOMAIN-SUFFIX,anthropic.com
   - DOMAIN-SUFFIX,githubcopilot.com
-
+  - DOMAIN-SUFFIX,chatgpt.com
