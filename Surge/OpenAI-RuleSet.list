@@ -9,4 +9,4 @@ DOMAIN-SUFFIX,gemini.google.com,OpenAI
 DOMAIN-SUFFIX,claude.ai,OpenAI
 DOMAIN-SUFFIX,anthropic.com,OpenAI
 DOMAIN-SUFFIX,githubcopilot.com,OpenAI
-
+DOMAIN-SUFFIX,chatgpt.com,OpenAI
