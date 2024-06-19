@@ -1,0 +1,21 @@
+############### Customs ###################
+# > Notion  默认走代理
+#DOMAIN-SUFFIX,notion.com
+#DOMAIN-SUFFIX,notion.so
+#DOMAIN-SUFFIX,notion.site
+
+# > Tesla
+DOMAIN-SUFFIX,tesla.com
+
+# > UBNT
+DOMAIN-SUFFIX,ubnt.com
+DOMAIN-SUFFIX,ui.com
+
+DOMAIN-SUFFIX,m-team.cc
+DOMAIN-SUFFIX,sm.ms
+DOMAIN-SUFFIX,loli.net
+DOMAIN-SUFFIX,v2ex.com
+
+#new bing
+DOMAIN-SUFFIX,bing.com
+################## Customs EOF ##################
