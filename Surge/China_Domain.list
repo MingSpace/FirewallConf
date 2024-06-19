@@ -1,3 +1,21 @@
+################ CHINA #################
+#抖音
+DOMAIN-SUFFIX,amemv.com,DIRECT
+DOMAIN-SUFFIX,ixigua.com,DIRECT
+DOMAIN-SUFFIX,ixiguavideo.com,DIRECT
+DOMAIN-SUFFIX,pstatp.com,DIRECT
+DOMAIN-SUFFIX,snssdk.com,DIRECT
+DOMAIN-SUFFIX,toutiao.com,DIRECT
+DOMAIN-KEYWORD,ecombdapi,DIRECT
+DOMAIN-KEYWORD,zjurl,DIRECT
+DOMAIN-KEYWORD,DIRECTstatic,DIRECT
+DOMAIN-KEYWORD,zijieapi,DIRECT
+DOMAIN-KEYWORD,DIRECT,DIRECT
+DOMAIN-KEYWORD,DIRECTvod,DIRECT
+DOMAIN-KEYWORD,zjcdn,DIRECT
+DOMAIN-KEYWORD,DIRECTpic,DIRECT
+DOMAIN-KEYWORD,toutiao,DIRECT
+#
 .cn
 .00cdn.com
 .0daydown.com
@@ -147,7 +165,6 @@
 .biligame.com
 .biligame.net
 .bilivideo.com
-.bing.com
 .bitbucket.org
 .blackyau.cc
 .blogchina.com
@@ -315,6 +332,7 @@
 .ganji.com
 .gank.io
 .geetest.com
+.tesla.cn
 .getfedora.org
 .getui.com
 .gfan.com
@@ -947,3 +965,4 @@
 .zku.net
 .znyj365.com
 .zto.com
+################## CHINA EOF ##################

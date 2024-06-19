@@ -1,3 +1,4 @@
+################## AI ##################
 DOMAIN-SUFFIX,openai.com
 DOMAIN-SUFFIX,oaistatic.com
 DOMAIN-SUFFIX,oaiusercontent.com
@@ -25,3 +26,4 @@ DOMAIN-SUFFIX,generativeai.google
 DOMAIN-SUFFIX,poe.com
 DOMAIN-SUFFIX,meta.ai
 DOMAIN-KEYWORD,openai
+################## AI EOF ##################
