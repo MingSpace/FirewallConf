@@ -20,4 +20,5 @@ DOMAIN-SUFFIX,v2ex.com
 DOMAIN-SUFFIX,bing.com
 
 DOMAIN-SUFFIX,battle.net
+
 ################## Customs EOF ##################
