@@ -26,3 +26,4 @@ payload:
   - DOMAIN-SUFFIX,poe.com
   - DOMAIN-SUFFIX,meta.ai
   - DOMAIN-KEYWORD,openai 
+  - DOMAIN-SUFFIX,sora.com
