@@ -22,6 +22,7 @@ payload:
   - DOMAIN-SUFFIX,generativeai.google
   - DOMAIN-SUFFIX,ai.google.dev
   - DOMAIN-SUFFIX,makersuite.google.com
+  - DOMAIN-SUFFIX,alkalimakersuite-pa.clients6.google.com
   
 #Claude
   - DOMAIN-SUFFIX,claude.ai
