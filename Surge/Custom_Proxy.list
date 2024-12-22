@@ -11,13 +11,14 @@ DOMAIN-SUFFIX,tesla.com
 DOMAIN-SUFFIX,ubnt.com
 DOMAIN-SUFFIX,ui.com
 
+#new bing
+DOMAIN-SUFFIX,bing.com
+
+# > other
 DOMAIN-SUFFIX,m-team.cc
 DOMAIN-SUFFIX,sm.ms
 DOMAIN-SUFFIX,loli.net
 DOMAIN-SUFFIX,v2ex.com
-
-#new bing
-DOMAIN-SUFFIX,bing.com
-
 DOMAIN-SUFFIX,battle.net
+DOMAIN-KEYWORD,jsdelivr
 ################## Customs EOF ##################
