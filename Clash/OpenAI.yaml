@@ -15,6 +15,7 @@ payload:
 
 #Google
   - DOMAIN-SUFFIX,gemini.google.com
+  - DOMAIN-SUFFIX,gemini.google 
   - DOMAIN,ai.google.dev
   - DOMAIN,aistudio.google.com
   - DOMAIN-SUFFIX,deepmind.com
