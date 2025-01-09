@@ -7,15 +7,17 @@ payload:
   - DOMAIN-KEYWORD,openai 
   - DOMAIN-SUFFIX,sora.com
   - DOMAIN-SUFFIX,chatgpt.com
+  - DOMAIN-SUFFIX,chat.com
 
 #JB
   - DOMAIN-SUFFIX,jetbrains.com
   - DOMAIN-SUFFIX,grazie.ai
+  - DOMAIN-SUFFIX,grazie.aws.intellij.net
   - DOMAIN-SUFFIX,intellij.net
 
 #Google
   - DOMAIN-SUFFIX,gemini.google.com
-  - DOMAIN-SUFFIX,gemini.google 
+  - DOMAIN-SUFFIX,gemini.google
   - DOMAIN,ai.google.dev
   - DOMAIN,aistudio.google.com
   - DOMAIN-SUFFIX,deepmind.com
@@ -24,10 +26,16 @@ payload:
   - DOMAIN-SUFFIX,ai.google.dev
   - DOMAIN-SUFFIX,makersuite.google.com
   - DOMAIN-SUFFIX,alkalimakersuite-pa.clients6.google.com
+  - DOMAIN-SUFFIX,bard.google.com
+  - DOMAIN,makersuite.google.com
+  - DOMAIN-KEYWORD,colab
+  - DOMAIN-SUFFIX,apis.google.com
   
 #Claude
   - DOMAIN-SUFFIX,claude.ai
   - DOMAIN-SUFFIX,anthropic.com
+  - DOMAIN-SUFFIX,claudeusercontent.com
+  - DOMAIN-KEYWORD,claudeusercontent
 
 #Microsoft
   - DOMAIN-SUFFIX,githubcopilot.com
@@ -35,9 +43,12 @@ payload:
   
 #X
   - DOMAIN-SUFFIX,x.ai
+
+# Deepseek
+  - DOMAIN-SUFFIX,deepseek.com
   
 #Other
   - DOMAIN-SUFFIX,perplexity.ai
   - DOMAIN-SUFFIX,poe.com
   - DOMAIN-SUFFIX,meta.ai
-
+  - DOMAIN-SUFFIX,api2.cursor.sh
