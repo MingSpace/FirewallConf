@@ -30,6 +30,7 @@ payload:
   - DOMAIN,makersuite.google.com
   - DOMAIN-KEYWORD,colab
   - DOMAIN-SUFFIX,apis.google.com
+  - DOMAIN-SUFFIX,generativelanguage.googleapis.com
   
 #Claude
   - DOMAIN-SUFFIX,claude.ai
