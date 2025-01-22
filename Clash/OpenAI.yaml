@@ -48,7 +48,7 @@ payload:
   - DOMAIN-SUFFIX,x.ai
 
 # Deepseek
-  - DOMAIN-SUFFIX,deepseek.com
+#  - DOMAIN-SUFFIX,deepseek.com
   
 #Other
   - DOMAIN-SUFFIX,perplexity.ai
