@@ -12,7 +12,6 @@ payload:
 #JB
   - DOMAIN-SUFFIX,jetbrains.com
   - DOMAIN-SUFFIX,grazie.ai
-  - DOMAIN-SUFFIX,grazie.aws.intellij.net
   - DOMAIN-SUFFIX,intellij.net
 
 #Google
