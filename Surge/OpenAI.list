@@ -32,6 +32,7 @@ DOMAIN-SUFFIX,apis.google.com
 DOMAIN-SUFFIX,generativelanguage.googleapis.com
 #Chrome AI
 DOMAIN-SUFFIX,developer.chrome.com
+
   
 #Claude
 DOMAIN-SUFFIX,claude.ai
