@@ -35,6 +35,7 @@ payload:
   - DOMAIN-SUFFIX,developer.chrome.com
   
 #Claude
+  - DOMAIN-SUFFIX,servd-anthropic-website.b-cdn.net
   - DOMAIN-SUFFIX,claude.ai
   - DOMAIN-SUFFIX,anthropic.com
   - DOMAIN-SUFFIX,claudeusercontent.com
