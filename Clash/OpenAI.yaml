@@ -13,6 +13,7 @@ payload:
   - DOMAIN-SUFFIX,jetbrains.com
   - DOMAIN-SUFFIX,grazie.ai
   - DOMAIN-SUFFIX,intellij.net
+  - DOMAIN-SUFFIX,jetbrains.ai
 
 #Google
   - DOMAIN-SUFFIX,gemini.google.com
