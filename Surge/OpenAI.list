@@ -49,6 +49,7 @@ DOMAIN-SUFFIX,copilot.microsoft.com
   
 #X
 DOMAIN-SUFFIX,x.ai
+DOMAIN-SUFFIX,grok.com
 
 #Deepseek
 #DOMAIN-SUFFIX,deepseek.com
