@@ -6,5 +6,4 @@ DOMAIN-SUFFIX,smtp,DIRECT
 DOMAIN-KEYWORD,aria2,DIRECT
 
 DOMAIN-KEYWORD,bittorrent,DIRECT
-DOMAIN-KEYWORD,lingpaike,DIRECT
 ################## Customs EOF ##################
