@@ -1,6 +1,7 @@
 ############### Customs ###################
 # > my domain
 DOMAIN-KEYWORD,xxoob.com,DIRECT
+SRC-PORT,=18159,DIRECT
 
 DOMAIN-SUFFIX,smtp,DIRECT
 DOMAIN-KEYWORD,aria2,DIRECT
