@@ -1,10 +1,16 @@
 ############### Customs ###################
 # > my domain
 DOMAIN-KEYWORD,xxoob.com,DIRECT
+
+# PT
 SRC-PORT,=18159,DIRECT
-
-DOMAIN-SUFFIX,smtp,DIRECT
 DOMAIN-KEYWORD,aria2,DIRECT
-
 DOMAIN-KEYWORD,bittorrent,DIRECT
+
+# SMTP
+DOMAIN-SUFFIX,smtp,DIRECT
+DEST-PORT,25,DIRECT
+DEST-PORT,465,DIRECT
+DEST-PORT,587,DIRECT
+
 ################## Customs EOF ##################
