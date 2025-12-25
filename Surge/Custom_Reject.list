@@ -1,0 +1,1 @@
+DOMAIN-SUFFIX,nikecloud.com,REJECT-DROP,'notification-text="nikecloud detected and rejected."',"notification-interval=0",pre-matching,extended-matching
