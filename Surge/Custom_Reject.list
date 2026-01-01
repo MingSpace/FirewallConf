@@ -1,1 +1,2 @@
-DOMAIN-SUFFIX,nikecloud.com
+#full path: https://us-west-2.sky-hook.github-admin-prod.nikecloud.com/api/v1/events/hook
+DOMAIN-SUFFIX,github-admin-prod.nikecloud.co
