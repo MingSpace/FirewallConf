@@ -5,7 +5,7 @@
 #DOMAIN-SUFFIX,notion.site
 
 # > App Store 网页
-URL-REGEX,apps\.apple\.com\/
+DOMAIN-SUFFIX,apps.apple.com
 
 # > Tesla
 DOMAIN-SUFFIX,tesla.com
