@@ -4,6 +4,9 @@
 #DOMAIN-SUFFIX,notion.so
 #DOMAIN-SUFFIX,notion.site
 
+# > App Store 网页
+URL-REGEX,apps\.apple\.com\/cn(\/|$)
+
 # > Tesla
 DOMAIN-SUFFIX,tesla.com
 
