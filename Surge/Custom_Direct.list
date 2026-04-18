@@ -2,9 +2,6 @@
 # > my domain
 DOMAIN-KEYWORD,xxoob.com
 
-# > App Store 网页
-URL-REGEX,apps\.apple\.com\/cn(\/|$)
-
 # PT
 SRC-PORT,=18159
 DOMAIN-KEYWORD,aria2
