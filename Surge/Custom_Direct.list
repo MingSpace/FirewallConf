@@ -1,6 +1,6 @@
 ############### Customs ###################
 # > my domain
-DOMAIN-KEYWORD,h.xxoob.com
+DOMAIN-KEYWORD,xxoob.com
 
 # PT
 SRC-PORT,=18159
