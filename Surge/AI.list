@@ -59,10 +59,10 @@ DOMAIN-SUFFIX,cursorapi.com
 DOMAIN-SUFFIX,cursor-cdn.com
 
 #Kiro
-kiro.dev
-q.us-east-1.amazonaws.com
-q.eu-central-1.amazonaws.com
-*.kiro.aws.dev
+DOMAIN-SUFFIX,kiro.dev
+DOMAIN-SUFFIX,q.us-east-1.amazonaws.com
+DOMAIN-SUFFIX,q.eu-central-1.amazonaws.com
+DOMAIN-SUFFIX,kiro.aws.dev
 
 
 #Other
