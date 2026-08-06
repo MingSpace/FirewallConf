@@ -10,10 +10,10 @@ DOMAIN-SUFFIX,chat.com
 
 
 #JB
-DOMAIN-SUFFIX,jetbrains.com
+#DOMAIN-SUFFIX,jetbrains.com
 DOMAIN-SUFFIX,grazie.ai
-DOMAIN-SUFFIX,intellij.net
-DOMAIN-SUFFIX,jetbrains.ai
+#DOMAIN-SUFFIX,intellij.net
+#DOMAIN-SUFFIX,jetbrains.ai
 
 #Google
 DOMAIN-SUFFIX,gemini.google.com
@@ -28,12 +28,9 @@ DOMAIN-SUFFIX,makersuite.google.com
 DOMAIN-SUFFIX,alkalimakersuite-pa.clients6.google.com
 DOMAIN-SUFFIX,bard.google.com
 DOMAIN-SUFFIX,makersuite.google.com
-DOMAIN-KEYWORD,colab
-DOMAIN-SUFFIX,apis.google.com
 DOMAIN-SUFFIX,generativelanguage.googleapis.com
 DOMAIN-SUFFIX,notebooklm.google
 DOMAIN-SUFFIX,notebooklm.google.com
-DOMAIN-SUFFIX,developer.chrome.com
 
   
 #Claude
@@ -54,12 +51,22 @@ DOMAIN-SUFFIX,grok.com
 
 #Deepseek
 #DOMAIN-SUFFIX,deepseek.com
-  
-#Other
-DOMAIN-SUFFIX,perplexity.ai
-DOMAIN-SUFFIX,poe.com
-DOMAIN-SUFFIX,meta.ai
+
+#Cursor
 DOMAIN-SUFFIX,cursor.sh
 DOMAIN-SUFFIX,cursor.com
 DOMAIN-SUFFIX,cursorapi.com
 DOMAIN-SUFFIX,cursor-cdn.com
+
+#Kiro
+kiro.dev
+q.us-east-1.amazonaws.com
+q.eu-central-1.amazonaws.com
+*.kiro.aws.dev
+
+
+#Other
+DOMAIN-SUFFIX,perplexity.ai
+DOMAIN-SUFFIX,poe.com
+DOMAIN-SUFFIX,meta.ai
+
