@@ -10,10 +10,10 @@ DOMAIN-SUFFIX,chat.com
 
 
 #JB
-#DOMAIN-SUFFIX,jetbrains.com
 DOMAIN-SUFFIX,grazie.ai
-#DOMAIN-SUFFIX,intellij.net
-#DOMAIN-SUFFIX,jetbrains.ai
+DOMAIN-SUFFIX,api.ai.jetbrains.com.cn
+DOMAIN-SUFFIX,api.app.prod.grazie.aws.intellij.net
+DOMAIN-SUFFIX,jetbrains.ai
 
 #Google
 DOMAIN-SUFFIX,gemini.google.com
