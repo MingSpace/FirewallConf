@@ -40,6 +40,13 @@ DOMAIN-SUFFIX,claude.com
 DOMAIN-SUFFIX,anthropic.com
 DOMAIN-SUFFIX,claudeusercontent.com
 DOMAIN-KEYWORD,claudeusercontent
+clau.de
+claudemcpclient.com
+claudemcpcontent.com
+anthropic.com.cdn.cloudflare.net
+anthropic.auth0.com
+anthropic-com.ghost.io
+
 
 #Microsoft
 DOMAIN-SUFFIX,githubcopilot.com
