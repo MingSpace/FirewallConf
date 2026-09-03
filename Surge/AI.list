@@ -40,12 +40,12 @@ DOMAIN-SUFFIX,claude.com
 DOMAIN-SUFFIX,anthropic.com
 DOMAIN-SUFFIX,claudeusercontent.com
 DOMAIN-KEYWORD,claudeusercontent
-clau.de
-claudemcpclient.com
-claudemcpcontent.com
-anthropic.com.cdn.cloudflare.net
-anthropic.auth0.com
-anthropic-com.ghost.io
+DOMAIN-SUFFIX,clau.de
+DOMAIN-SUFFIX,claudemcpclient.com
+DOMAIN-SUFFIX,claudemcpcontent.com
+DOMAIN-SUFFIX,anthropic.com.cdn.cloudflare.net
+DOMAIN-SUFFIX,anthropic.auth0.com
+DOMAIN-SUFFIX,anthropic-com.ghost.io
 
 
 #Microsoft
